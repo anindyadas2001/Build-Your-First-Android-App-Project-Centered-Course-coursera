@@ -1,0 +1,6 @@
+Hardware (name, size, resolution, density) : Xiaoimi Redmi Note 7S, 6.3 '' 1080x2340xxhdpi
+
+System Image (API level, ABI, target) : 29, x86, Android 10.0
+
+
+Converts Miles to Kms
